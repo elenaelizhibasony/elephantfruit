@@ -101,6 +101,7 @@ For Hardware:
 ![Final]The final application provides image upload and webcam-based analysis and displays the detected elephant, possible fruit, estimated mouth position, distance, and compatibility score.
 ### Project Demo
 # Video
+![demo](demo.gif)
 The demo shows the application analyzing an image containing an elephant and a yellow/orange fruit. It demonstrates elephant detection using YOLOv8, fruit detection using OpenCV, distance calculation between the fruit and estimated mouth region, and generation of the final compatibility score.
 
 
